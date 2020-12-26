@@ -50,7 +50,7 @@ Python, Perl, etc.)—it will NOT compile under zyLabs C compiler.
 
 Inputs: 1 3 2.5 1 6 3 4 5 2 2 3 4 5
 
-Note: inputs in the test run may not show up on the output display
+Note: Inputs in the test run may not show up on the output display.
 
 ```
 Measuring Performance:
