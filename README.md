@@ -4,7 +4,7 @@
 - zyBooks, *“Computer Organization and Design (1e) – Interactive Version (ARM)”*
 - zyBooks, *“Programming in C with zyLabs”*
 
-**Topics to be Covered:**
+**Topics Covered:**
 - Computer Abstract / Tech
 - Arithmetic for Computers
 - The Processor
